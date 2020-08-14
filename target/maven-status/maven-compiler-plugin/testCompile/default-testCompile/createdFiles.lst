@@ -1,0 +1,4 @@
+Steps\LoginPageSteps.class
+Steps\DomainManagementSteps.class
+Steps\StudiesPageSteps.class
+Steps\RoleManagementSteps.class

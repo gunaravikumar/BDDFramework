@@ -1,0 +1,9 @@
+com\reusable\BasePage.class
+com\pages\StudiesPage.class
+com\reusable\WebElementUtils.class
+com\pages\RoleManagementPage.class
+com\company\DomainManagementRunner.class
+com\pages\DomainManagementPage.class
+com\reusable\BrowserUtils.class
+com\reusable\ObjectRepository.class
+com\reusable\ConfigureProperties.class
